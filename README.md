@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# React Bitcoin Ticker Viewer using React , Typescript, React Query
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
