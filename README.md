@@ -1,4 +1,6 @@
-# React Bitcoin Ticker Viewer using React , Typescript, React Query
+# React Bitcoin Ticker Viewer
+
+## You can Check it via : https://gh-adam.github.io/react-bc-ticker/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
